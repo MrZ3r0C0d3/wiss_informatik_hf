@@ -220,6 +220,24 @@ Stabstellen sind organisatorische Einheiten innerhalb eines Unternehmens, die ke
 
 ****
 # Das 7s-Modell von McKinsey
+![Das 7s-Modell von McKinsey](/Semester_BB/ORGA/notes/img/7S-Modell_Grafik.png)
+## Definition
+Das 7s-Modell von McKinsey ist ein Management-Modell, das sieben Elemente beschreibt, die für den Erfolg eines Unternehmens entscheidend sind. Diese Elemente sind: Strategie, Struktur, Systeme, Stil, Mitarbeiter, Fähigkeiten und Werte. Das Modell hilft Unternehmen, ihre internen Prozesse zu analysieren und zu optimieren.
+## Merkmale
+### Harte Faktoren
+- **Strategie**: Die langfristige Ausrichtung und Planung des Unternehmens.
+- **Struktur**: Die organisatorische Gliederung des Unternehmens.
+- **Systeme**: Die Prozesse und Verfahren, die im Unternehmen verwendet werden.
+
+### Weiche Faktoren
+- **Stil**: Die Unternehmenskultur und der Führungsstil.
+- **Mitarbeiter**: Die Mitarbeiter und deren Qualifikationen.
+- **Fähigkeiten**: Die Fähigkeiten und Kompetenzen der Mitarbeiter.
+- **Werte**: Die Werte und Überzeugungen, die das Unternehmen prägen.
+- **Zusammenhang**: Alle sieben Elemente sind miteinander verbunden und beeinflussen sich gegenseitig. Eine Veränderung in einem Element kann Auswirkungen auf die anderen Elemente haben. Das Modell hilft Unternehmen, ihre inter
+
+## Untershied zwischen harten und weichen Faktoren
+nen Prozesse zu analysieren und zu optimieren. Es zeigt auf, dass sowohl harte als auch weiche Faktoren für den Erfolg eines Unternehmens entscheidend sind. Harte Faktoren sind messbar und quantifizierbar, während weiche Faktoren schwerer zu messen sind und oft subjektiv wahrgenommen werden.
 
 ****
 # Notes

@@ -1,1 +1,2 @@
-# wiss_informatik_hf
+# WISS HF Notizen
+Hallo hier sind meine Notizen. Ich gerantiere keine Vollständigkeit und keine Richtigkeit. Ich habe die Notizen für mich gemacht, um den Stoff zu lernen. Wenn du sie verwenden möchtest, bitte mach das auf eigene Verantwortung. Ich übernehme keine Haftung für Fehler oder falsche Informationen. Wenn du Fragen hast, kannst du mir gerne eine Nachricht schreiben. :D
