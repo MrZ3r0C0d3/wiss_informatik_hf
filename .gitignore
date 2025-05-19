@@ -4,3 +4,10 @@
 
 # Glob pattern to match any file with .pdf extension
 *.pdf
+
+# ----------------------------------------------------------------
+# Ignore all files with the prefix private_
+# ----------------------------------------------------------------
+# Glob pattern to match any file with prefix private_
+private_*.*
+**/private_*.*

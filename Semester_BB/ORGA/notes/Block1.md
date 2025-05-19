@@ -194,7 +194,7 @@ Erwartetes Ergebnis:
 
 # Firma: Schmid-Fehr AG
 ## Skizze Divisionale Organisation:
-![Skizze](/notes/img/Schmid-Fehr-Organisationstruktur.png)
+![Skizze](/Semester_BB/ORGA/notes/img/Schmid-Fehr-Organisationstruktur.png)
 
 ## Vorteile
 - Kurze Entscheidungswege
