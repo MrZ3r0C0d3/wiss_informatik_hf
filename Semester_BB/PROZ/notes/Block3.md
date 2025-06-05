@@ -19,11 +19,11 @@ Wann ein Prozess vollständig ist
 ### TA Notizen
 - In der Kürze liegt der Würze
 - Auf passen mit dem BMPN 2.0 mit Swimlane Diagram verwechseln
-- doppelte Pfeile beim Verbindung zwischen Prozesse im Swimlane = auslöser und ergebnis
+- doppelte Pfeile beim Verbindung zwischen Prozesse im Swimlane = auslöser oder ergebnis da wir keine start und endereignisse haben
 - Ein Pfeil = Prozess
 - Prozess legende erstellen
 - Digitale Prozesse bitte verlinkung nicht vergessen
 - Smart ziele muss Messbar sein
-
-
-Personalprozesse
+- Prozess beschreiben jetzt mal starten mit Tabellen da es übersichtlicher ist
+- Swimm lane 7 -10 Schritte
+- BPMN 2.0 10 - 15 Schritte
