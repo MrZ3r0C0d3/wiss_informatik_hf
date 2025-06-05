@@ -256,4 +256,4 @@ Nicht nur Wort Dokumente abgeben, sondern auch PDF Dokumente.
 ****
 # To Do 
 - [x] Andrin nach PP fragen zum Notes füllen.
-- [ ] 7 S Modell von McKinsey Verfolgständigen mit Bilder von Präsentation des Dozenten.
+- [x] 7 S Modell von McKinsey Verfolgständigen mit Bilder von Präsentation des Dozenten.
